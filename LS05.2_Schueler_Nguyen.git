@@ -1,0 +1,7 @@
+echo "# LS05.2_Schueler_Nguyen" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/GitBoomer187/LS05.2_Schueler_Nguyen.git
+git push -u origin main
